@@ -1,0 +1,144 @@
+
+
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,200&family=Rajdhani:wght@300&display=swap');
+ 
+body {
+    
+    background-color: #000000 !important;
+}
+
+
+#textarea-state-example {
+    
+    font-family: 'Rajdhani';
+    font-size: 18px;
+    font-weight: 700;
+    
+    
+}
+
+
+#textarea-state-example-output_Grüne {
+    background-color: #272b30 !important;
+    font-family: 'Rajdhani';
+    color: white !important;
+    border:0.01em solid greenyellow;
+
+}
+
+
+
+#textarea-state-example-output_afd{
+    background-color: #272b30 !important;
+    font-family: 'Rajdhani';
+    color: white !important;
+    border:0.01em solid blue;
+
+}
+
+
+#textarea-state-example-output_fdp{
+    background-color: #272b30 !important;
+    font-family: 'Rajdhani';
+    color: white !important;
+    border:0.01em solid yellow;
+
+
+}
+
+
+
+
+h1 {
+    
+    font-family: 'Rajdhani';
+        
+    
+}
+
+
+
+
+
+
+
+
+
+
+#textarea-state-example-button {
+
+            display: inline-block;
+            background-color: #272b30 !important;
+            outline: none;
+            cursor: pointer;
+            font-size: 16px;
+            line-height: 20px;
+            font-weight: 600;
+            border-radius: 8px;
+            padding: 13px 23px;
+            border: 1px solid;
+            transition: box-shadow 0.2s ease 0s, 
+            -ms-transform 0.1s ease 0s, 
+            -webkit-transform 0.1s ease 0s, 
+            transform 0.1s ease 0s;
+            color: white;
+            border-color: white !important;
+            font-family: 'Rajdhani';
+            font-weight: 300;
+            transition-duration: 0.4s;
+                
+
+}
+
+#textarea-state-example-button:hover {
+    background-color: gray !important;
+}
+
+
+
+
+
+
+
+
+#my-numeric-input-1 {
+        
+        border-radius: 8px !important;
+        color: white !important;
+
+    
+        
+
+}
+
+
+
+
+.daq-numericinput--light__input {
+    
+        color: white !important;
+        display: inline-block;
+        background-color: #272b30 !important;
+        outline: none !important;
+        font-size: 16px !important;
+        border-radius: 8px !important;
+        padding: 13px 20px !important;
+        border: 1px solid !important;
+        font-family: 'Rajdhani';
+        font-weight: 300;
+        
+    
+}
+    
+
+
+
+
+
+
+
+
+
+
